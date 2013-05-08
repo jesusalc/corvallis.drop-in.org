@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml-stylesheet href="../css/svg/svg.css" type="text/css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<svg id="left" viewBox="-6 -5 22 22" preserveAspectRatio="xMinYMin meet">
+		<g>
+			<path d="M0.292,5.235l0.354-0.354c0.007-0.007,0.016-0.009,0.023-0.016l4.572-4.573c0.391-0.391,1.023-0.391,1.414,0l0.354,0.354
+			c0.391,0.391,0.391,1.023,0,1.414L3.124,5.946l3.885,3.885c0.391,0.391,0.391,1.024,0,1.415l-0.354,0.353
+			c-0.391,0.391-1.023,0.391-1.414,0L0.669,7.026C0.662,7.02,0.652,7.018,0.646,7.011L0.292,6.657C0.096,6.461-0.001,6.203,0,5.946
+			C-0.001,5.688,0.096,5.432,0.292,5.235z"/>
+		</g>
+	</svg>
+</svg>
